@@ -1,0 +1,184 @@
+header > div:first-child {
+    float: left;
+
+}
+header{
+    margin: 3%;
+    margin-left: 23%;
+    margin-right: 17%;
+    width:60%;
+    height: 100px;
+    position: relative;
+}
+h1{
+margin-right: -3%;
+margin-top: -7%;
+margin-bottom: 0%;
+float: right;
+font-family: 'Yellowtail', cursive;
+font-size: 250%;
+
+}
+header > div:first-child > p  {
+
+
+font-size: 14px;
+position: absolute;
+  top: 19%;
+  left: 5%;
+  color: rgb(151, 151, 151);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header > div:nth-child(2){
+    float: right;
+
+}
+
+header > div:last-child{
+
+height: 2%;
+width: 100%;
+
+position: absolute;
+  top: 90%;
+  
+}
+
+main *{
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+
+h2 , #para1,.printright{
+    margin-bottom: 2%;
+}
+h2{
+    font-size: 50px;
+    font-family:'Jost', sans-serif;;
+    margin-bottom: 0px;
+}
+#para1{
+font-size: 13px;
+color:  rgb(151, 151, 151);
+margin-top: 0px;
+margin-left: 10%;
+font-family:Arial, Helvetica, sans-serif;
+}
+.printright{
+   float: right;
+ 
+ margin: 20px;
+ position: absolute;
+   top: 230px;
+   right: 255px;
+}
+.printright > p{
+    float: right;
+   margin:0px;
+   margin-bottom: 0px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   color: rgb(151, 151, 151); ;
+} 
+.printright > img{
+    float: left;
+    margin:0px;
+    margin-top:3px;
+}
+ 
+.center p{
+text-align:justify;
+margin-bottom: 3%;
+color: rgb(141, 141, 141);
+}
+  
+
+
+#allform{
+    background-image:url("https://github.com/LTUC/amman-201d33/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true") ;
+    background-size: 100% 100%;
+background-repeat: no-repeat;
+    width: 75%;
+    height: 300px;
+    margin-left: 15%;
+    color: rgb(58, 56, 56); 
+    font-family: cursive;
+}
+#formstyle{
+    float: left;
+    margin: 0px;
+    width: 50%;
+}
+
+#formestyle22{
+    float: right;
+    margin: 0px;
+    width: 50%;
+}
+
+.left{
+margin: 1%;
+}
+.right{
+    margin: 1%;
+}
+
+#profile{
+    
+    position: relative;
+
+}
+#lastimg{
+    margin: 10%;
+    width: 65%;
+}
+#lastimg >img{
+float: left;
+margin-right:15px ;
+}
+#lastimg h3{
+    color: rgb(97, 95, 95);
+}
+#lastimg p{ color: rgb(141, 141, 141);
+}
+   
+#lastimg >button{
+    background-color: indianred;
+    float: right;
+    height: 60px;
+    width: 200px;
+    color: ivory;
+  font-weight: bold;
+    position: absolute;
+    right:1%;
+    top: 1%;
+}
+
+footer{
+    text-align: center;
+    color:rgb(211, 206, 206) ;
+   
+    position: relative;
+}
+#footerImg{
+    image-resolution: 10%;
+}
+
+#hrleft{
+    color:rgb(236, 236, 236) ;
+
+    width: 30%;
+    position:absolute;
+    left:17%;
+    top: 15%;
+}
+#hrright{
+    color:rgb(236, 236, 236) ;
+
+    width: 30%;
+    position:absolute;
+    right:17%;
+    top: 15%;
+}
